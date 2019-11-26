@@ -1,2 +1,2 @@
 # FL-12
-EPAM Front-end JS online winter 2019-2020
+EPAM Front-End JS online winter 2019-2020
